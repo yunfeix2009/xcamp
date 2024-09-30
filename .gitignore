@@ -34,4 +34,4 @@
 *.out
 *.app
 
-*.C202.xcodeproj
+*/*.xcodeproj/*
