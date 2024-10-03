@@ -39,7 +39,7 @@ int main(int argc, const char * argv[]) {
         for (int j=0; j<c; j++){
             cin >> maze[i][j];
         }
-    }    
+    }
     
     //floodfill from topleft
     floodfill(0, 0, max_num);
